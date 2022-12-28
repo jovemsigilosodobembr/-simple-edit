@@ -9,9 +9,9 @@ echo
 figlet    '    THBD' |lolcat
 
 echo "
-             We Do Not HaCk to impress
-                        We HaCk To Express
-   < ━━━━━━━━━━━ [★]BDh@Ckers [★] ━━━━━━━━━━━━ > " |lolcat
+              Faça o Bem 
+                        não olhe quem
+   < ━━━━━━━━━━━ [★Gilmar script [★] ━━━━━━━━━━━━ > " |lolcat
 
 
 python /data/data/com.termux/files/usr/etc/wlc.py
