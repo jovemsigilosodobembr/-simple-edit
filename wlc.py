@@ -6,5 +6,5 @@ m = random.choice(color)+"Welcome THBD \n"
 for msg in m:
     sys.stdout.write(msg)
     sys.stdout.flush()
-    time.sleep(0.06)
+    time.sleep(0)
 print("")
